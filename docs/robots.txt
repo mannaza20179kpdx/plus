@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mannaza20179kpdx.github.io/plus/sitemap.xml
